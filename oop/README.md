@@ -1,2 +1,4 @@
 "Object Oriented Programming" 
-"Software Engüneering" 
+"Software Engineering" 
+
+"Number Pi Calculating with Euler and Leibnitz formula"
