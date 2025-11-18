@@ -21,7 +21,7 @@ namespace OOP_in_Csharp
         public static void Main(string[] args)
         {
             Computer comp1 = new("alfa", "10.0.0.23", "Windows 11");
-            Console.WriteLine(comp1._BIOSname);
+            Console.WriteLine("{0} {1} {2} ", comp1._BIOSname, comp1._ipadress, comp1._OS);
         }
     }
 }
